@@ -1,0 +1,13 @@
+.movTitle {
+  font-weight: bold;
+  font-size: 2rem;
+  margin: 0;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+}
+
+.fit {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+}
